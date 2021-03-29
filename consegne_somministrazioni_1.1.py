@@ -1,3 +1,4 @@
+#grafico a barre delle dosi di vaccino consegnate e somministrate per ogni regione, percentuale di somministrazione visibile in consegne_somministrazioni_percentuale
 import pandas as pd 
 import numpy as np
 import matplotlib.pyplot as plt
