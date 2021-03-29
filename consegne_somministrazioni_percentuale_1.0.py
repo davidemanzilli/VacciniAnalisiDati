@@ -1,3 +1,4 @@
+#percentuale di somministrazione dei vaccini per ogni regione rispetto alle dosi consegnate visibili in consegne_somministrazioni
 import pandas as pd 
 import numpy as np
 import matplotlib.pyplot as plt
